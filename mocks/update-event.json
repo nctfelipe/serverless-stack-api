@@ -2,5 +2,10 @@
     "body": "{\"content\":\"new world\",\"attachment\":\"new.jpg\"}",
     "pathParameters": {
         "id": "b0656a50-5826-11eb-82cf-3391a979ce91"
+    },
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
     }
 }
